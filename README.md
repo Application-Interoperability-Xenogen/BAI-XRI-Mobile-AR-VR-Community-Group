@@ -26,7 +26,20 @@
   * Repositories
     * [Mobile Catkin Modules Build Development Tools](https://github.com/Application-UI-UX/mobile_catkin_modules_build_development_tools)
 
-LATER
+* BAI&XRI ROS/ROS2 Mobile Message Service Generator
+  * Description: ROS/ROS2 Mobile Message Service Generator
+  * Repositories
+    * [Mobile Message Service Generator](https://github.com/Application-UI-UX/mobile_message_service_generator)
+   
+* BAI&XRI ROS/ROS2 Mobile Catkin Gradle Plugins
+  * Description: ROS/ROS2 Mobile Catkin Gradle Plugins
+  * Repositories
+    * [Mobile Catkin Gradle Plugins](https://github.com/Application-UI-UX/mobile_catkin_gradle_plugins)
+
+* BAI&XRI ROS/ROS2 Mobile Implementation Core
+  * Description: ROS/ROS2 Mobile Implementation Core
+  * Repositories
+    * [Mobile Implementation Core](https://github.com/Application-UI-UX/mobile_implementation_core)
 
 
 ### Standards for subprojects
@@ -74,7 +87,7 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 * Regular WG Meeting: 6:00 PM EST
   * The meetings be announced in [Discourse](later), [Discord](https://discord.gg/uETm8hKN2U) as well as our [Bellande Application & UX/UI Research Innovations Center](https://application-ui-ux.github.io)
 
-  * The Meeting will be video will be posted in [BR&SRI Youtube channel](later)
+  * The Meeting will be video will be posted in [BR&SRI Youtube channel](https://www.youtube.com/channel/UCgsuL3k0CBiy4Rh8PihHyAA)
 
 ### Backlog Management
 
