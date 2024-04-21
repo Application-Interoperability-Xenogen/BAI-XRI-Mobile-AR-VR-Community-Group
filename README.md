@@ -85,7 +85,7 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 ### Meetings
 
 * Regular WG Meeting: 6:00 PM EST
-  * The meetings be announced in [Discourse](later), [Discord](https://discord.gg/uETm8hKN2U) as well as our [Bellande Application & UX/UI Research Innovations Center](https://application-ui-ux.github.io)
+  * The meetings be announced in [Discourse](https://discourse.ros.org/t/mobile-vr-ar-application-ui-ux-community-group/37023), [Discord](https://discord.gg/uETm8hKN2U) as well as our [Bellande Application & UX/UI Research Innovations Center](https://application-ui-ux.github.io)
 
   * The Meeting will be video will be posted in [BR&SRI Youtube channel](https://www.youtube.com/channel/UCgsuL3k0CBiy4Rh8PihHyAA)
 
