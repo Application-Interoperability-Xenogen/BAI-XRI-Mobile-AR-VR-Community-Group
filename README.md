@@ -6,7 +6,7 @@
 
 ## Communication Channels
 - Ronaldson Bellande Linkedin: https://www.linkedin.com/in/ronaldson-bellande-5b9699178
-- BRSRI Center Linkedin Page: https://www.linkedin.com/company/bellande-application-ui-ux-research-innovation-center
+- BAI&XRI Center Linkedin Page: https://www.linkedin.com/company/bellande-application-ui-ux-research-innovation-center
 - Ronaldson Bellande GIthub: https://github.com/RonaldsonBellande
 - Email: ronaldsonbellande@gmail.com
 - Discord Group: https://discord.gg/KBwqcPdx2H
