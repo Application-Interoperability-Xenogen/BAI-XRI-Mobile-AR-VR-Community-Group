@@ -13,7 +13,7 @@
 - Google Group: later
 - Email Group: later
 - Google Meeting Calender: later
-- Google Meeting Link: later
+- Google Meeting Link: https://meet.google.com/sim-yvox-ksr?authuser=0&hs=122&ijlm=1713929631349
 
 ## Resources
 - Google Calendar: later
