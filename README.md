@@ -10,14 +10,14 @@
 - Ronaldson Bellande GIthub: https://github.com/RonaldsonBellande
 - Email: ronaldsonbellande@gmail.com
 - Discord Group: https://discord.gg/KBwqcPdx2H
-- Google Group: later
-- Email Group: later
+- Google Group: https://groups.google.com/g/mobilevrar-application-uiux-community-group
+- Email Group: mobilevrar-application-uiux-community-group@googlegroups.com
 - Google Meeting Calender: later
 - Google Meeting Link: https://meet.google.com/sim-yvox-ksr?authuser=0&hs=122&ijlm=1713929631349
 
 ## Resources
-- Google Calendar: later
-- Notes and Presentation: later
+- Google Calendar: https://calendar.app.google/fsqC1XNE294JdiFVA
+- Notes and Presentation: https://github.com/Application-UI-UX/BAI-XRI-Mobile-AR-VR-PowerPoint-Notes
 
 ### Subproject List
 
