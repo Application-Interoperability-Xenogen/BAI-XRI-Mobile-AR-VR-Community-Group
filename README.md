@@ -12,7 +12,7 @@
 - Discord Group: https://discord.gg/KBwqcPdx2H
 - Google Group: https://groups.google.com/g/mobilevrar-application-uiux-community-group
 - Email Group: mobilevrar-application-uiux-community-group@googlegroups.com
-- Google Meeting Calender: later
+- Google Meeting Calender: https://calendar.google.com/calendar/u/0/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0@group.calendar.google.com&ctz=UTC
 - Google Meeting Link: https://meet.google.com/sim-yvox-ksr?authuser=0&hs=122&ijlm=1713929631349
 
 ## Resources
