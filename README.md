@@ -1,4 +1,4 @@
-# {BAI&XRI} Mobile AR VR Community Group for {ROS/ROS2 Offitial} {Open Robotics Official}
+# {BAIXRI} Mobile AR VR Community Group for {Robotics Official} {Bellande Technologies Official}
 
 **Mission**: The Mobile AR VR Working Group's mission is to to build the architecture of mobile robotics build that is
 
